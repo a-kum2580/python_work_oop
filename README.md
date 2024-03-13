@@ -1,4 +1,4 @@
-the video explaining number two of the presentation work
+
 class StudentQueue:
     def _init_(self):
         self.queue = []
